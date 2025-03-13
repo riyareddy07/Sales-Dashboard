@@ -72,7 +72,7 @@ To ensure data quality and accurate analysis, the following preprocessing steps 
 # Sales & Profit Trends
 •	Peak Sales: November & December (20%+ increase)
 •	Profits follow an upward trend with monthly fluctuations
-![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales9.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales7.png)
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales7.png)
 
 
  
