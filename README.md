@@ -2,6 +2,11 @@
 # Power BI Sales Analysis & Forecast Report
 # Overview
 This Power BI report provides a detailed analysis of sales performance, regional trends, shipping modes, payment methods, and profitability. It applies DAX calculations to compute average delivery time and forecast sales trends, ensuring data-driven decision-making.
+  ![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)
+](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales%201.png)
+
+
+
 
 # Data Preprocessing 
 To ensure data quality and accurate analysis, the following preprocessing steps were performed:
