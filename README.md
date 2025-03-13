@@ -63,14 +63,16 @@ To ensure data quality and accurate analysis, the following preprocessing steps 
 •	Technology: 30%
 •	Furniture: 28%
 •	Phones: 12.5%, Chairs: 11.25%, Binders: 10.63%
-![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales%2010.png)
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales9.png)
+
 
               
 
 # Sales & Profit Trends
 •	Peak Sales: November & December (20%+ increase)
 •	Profits follow an upward trend with monthly fluctuations
-![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales9.png)(https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales%2010.png)
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales9.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales7.png)
 
 
  
