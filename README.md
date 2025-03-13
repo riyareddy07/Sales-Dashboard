@@ -12,7 +12,8 @@ This Power BI report provides a detailed analysis of sales performance, regional
 To ensure data quality and accurate analysis, the following preprocessing steps were performed:
 •	Data Cleaning: Transposed data for better visualization, removed unwanted missing rows and columns.
 •	Data Profiling: Identified anomalies, missing values, duplicates, and null values in Power BI.
-•	Data Transformation: Applied DAX calculations for sales KPIs and trend analysis.
+•	Data Transformation: Applied DAX calculations for sales KPIs and trend analysis.![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales15.png)
+
 
  
 
@@ -22,6 +23,8 @@ To ensure data quality and accurate analysis, the following preprocessing steps 
 •	Total Orders: 22K
 •	Total Profit: $175K (10.94%)
 •	Avg. Ship Days (DAX Calculation Used)
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)]
+(https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales12.png)
 
 # Sales Breakdown
 # By Region
