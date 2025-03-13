@@ -23,8 +23,7 @@ To ensure data quality and accurate analysis, the following preprocessing steps 
 •	Total Orders: 22K
 •	Total Profit: $175K (10.94%)
 •	Avg. Ship Days (DAX Calculation Used)
-![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)]
-(https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales12.png)
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales12.png)
 
 # Sales Breakdown
 # By Region
@@ -32,6 +31,7 @@ To ensure data quality and accurate analysis, the following preprocessing steps 
 •	East: 29%
 •	Central: 22%
 •	South: 16% (lowest)
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales%205.png)
 
  
 
@@ -39,12 +39,14 @@ To ensure data quality and accurate analysis, the following preprocessing steps 
 •	Consumer: 48.09%
 •	Corporate: 32.55%
 •	Home Office: 19.36%
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales6.png)
+
                  
 # By Payment Mode
 •	COD: 43%
 •	Online: 35%
 •	Card: 22%
-
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales4.png)
                
 
 # By Shipping Mode
@@ -52,6 +54,7 @@ To ensure data quality and accurate analysis, the following preprocessing steps 
 •	Second-Class: 21%
 •	First-Class: 15%
 •	Same Day: 5%
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales8.png)
 
                  
 
@@ -60,12 +63,14 @@ To ensure data quality and accurate analysis, the following preprocessing steps 
 •	Technology: 30%
 •	Furniture: 28%
 •	Phones: 12.5%, Chairs: 11.25%, Binders: 10.63%
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](
 
               
 
 # Sales & Profit Trends
 •	Peak Sales: November & December (20%+ increase)
 •	Profits follow an upward trend with monthly fluctuations
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales9.png)(https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales%2010.png)
 
 
  
@@ -74,10 +79,12 @@ To ensure data quality and accurate analysis, the following preprocessing steps 
 # Forecasted Trends
 •	Sales fluctuate between 0.2% and 10.6% daily.
 •	The growth trend continues, with a ±3% confidence interval.
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales14.png)
+
 # Sales by State
 •	Top States: California (21.25%), New York (11.88%), Texas (7.50%)
 •	Lower States: North Carolina (2.50%), Michigan (3.13%)
-
+![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)](https://github.com/riyareddy07/Sales-Dashboard/blob/main/sales13.png)
  
 
 # Business Impact & Recommendations
@@ -95,7 +102,7 @@ Shipping Optimization: Fast shipping discounts could increase customer satisfact
 Digital Payments: Offer 5-10% discounts to shift users from COD to online payments.
 
 # How to Use
-1.	Download the dataset (  )
+1.	Download the dataset ( Sales.csv )
 2.	Interact with the dashboard filters to explore insights.
 3.	Analyze sales trends, Forecast and order distribution.
 # Conclusion
